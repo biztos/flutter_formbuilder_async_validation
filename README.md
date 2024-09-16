@@ -92,6 +92,18 @@ a cross-platform framework is a massive liability.
 
 What are you supposed to do when the bosses tell you to build it for "web?"
 
+## RFC
+
+I'm putting this out there as a public service, but also because I will
+probably need to remember it myself some day.  If you find anything wrong,
+or have any suggestions, please feel free open an "Issue" here.
+
+And as long as you're here, have a look at some [art][10]!
+
+Cheers
+
+_-- frosty_
+
 ---
 
 ```END```
@@ -107,3 +119,4 @@ What are you supposed to do when the bosses tell you to build it for "web?"
 [7]: https://doc.rust-lang.org/std/result/
 [8]: https://pub.dev/packages/fpdart
 [9]: https://github.com/google/sync_http.dart/issues/25#issuecomment-2353049278
+[10]: https://kevinfrost.com/
